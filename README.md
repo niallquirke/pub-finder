@@ -12,3 +12,6 @@ Home Page
 
 Pub Page
 ![PubPage](./images/pubfinder-pub.png)
+
+Mobile Page
+![Mobile Page](./images/pubfinder-mobile.png)
