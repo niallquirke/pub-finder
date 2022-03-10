@@ -6,3 +6,9 @@ Using:
 - Node
 - Express
 - PostgreSQL
+
+Home Page
+![Home Page](./images/pubfinder-home.png)
+
+Pub Page
+![PubPage](./images/pubfinder-pub.png)
