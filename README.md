@@ -14,4 +14,4 @@ Pub Page
 ![PubPage](./images/pubfinder-pub.png)
 
 Mobile Page
-![Mobile Page](./images/pubfinder-mobile.png)
+<img src="./images/pubfinder-mobile.png" width="210">
